@@ -1,3 +1,11 @@
+## 👥 Team Members
+- Amisha
+- Kanika
+- Ritika
+
+## 📌 Note
+This project was developed as a team effort and submitted individually.
+
 # 🏠 Hostel Management System
 
 A full-stack hostel management system built with React (frontend) and Node.js + Express + MySQL (backend).
