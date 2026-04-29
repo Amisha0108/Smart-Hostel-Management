@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+config/db.js
+dist/
+build/
+*.log
